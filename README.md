@@ -19,7 +19,7 @@
 ####  Book Shop – HTML • CSS • JavaScript
 
 ## 📫 How to reach me:  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/loveheart77) | [Email](mailto:nesterchuklyubov@gmail.com)
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/loveheart77) 
 
 
 

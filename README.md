@@ -1,4 +1,4 @@
-##                                                                           ✨ Hi, I'm Lyubov Nesterchuk 👋✨
+##                                                                           ✨  Hi, I'm Lyubov Nesterchuk  ✨
 
 <!--
 **LyubovNesterchuk/LyubovNesterchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

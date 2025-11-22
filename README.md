@@ -5,29 +5,18 @@
 #### **Tools** ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ## 📁 Projects
 ### 💻 Personal Projects
-#### [Note Hub](https://github.com/LyubovNesterchuk/nodejs-hw/tree/05-mail-and-img) - Node.js
-Developed a full-featured note-taking application with authentication, image upload, and CRUD functionality.
-#### [Note Hub](https://github.com/LyubovNesterchuk/09-auth) - Next.js
-Built a version of Note Hub with SSR, secure authentication, and REST API integration.
-#### [Post Hub](https://github.com/LyubovNesterchuk/post-routing-nextjs) - Next.js
-Created a posts management platform using dynamic routing.
-#### [Currency Exchange](https://github.com/LyubovNesterchuk/exchange-rates-nextjs) - Next.js
-Real-time exchange rates dashboard with optimized API requests.
-#### [Online Shop](https://github.com/LyubovNesterchuk/js-module-11-12) - HTML5 | CSS3 | JavaScript
-Responsive e-commerce website with catalog, cart, and UI components.
-#### [Chocolate Shop](https://lyubovnesterchuk.github.io/my-first-project/) - HTML5 | CSS3 | JavaScript
-Responsive landing page for a chocolate brand.
-#### [WebStudio](https://lyubovnesterchuk.github.io/goit-markup-hw-06/#) - HTML5 | CSS3 | JavaScript
-Business website with adaptive layout.
-#### [User Testing Platform](https://github.com/LyubovNesterchuk/product-project) - HTML5 | CSS3
-Prototype platform for UX testing flows.
+- [Note Hub](https://github.com/LyubovNesterchuk/nodejs-hw/tree/05-mail-and-img) - Node.js - Developed a full-featured note-taking application with authentication, image upload, and CRUD functionality.
+- [Note Hub](https://github.com/LyubovNesterchuk/09-auth) - Next.js - Built a version of Note Hub with SSR, secure authentication, and REST API integration.
+- [Post Hub](https://github.com/LyubovNesterchuk/post-routing-nextjs) - Next.js - Created a posts management platform using dynamic routing.
+- [Currency Exchange](https://github.com/LyubovNesterchuk/exchange-rates-nextjs) - Next.js - Real-time exchange rates dashboard with optimized API requests.
+- [Online Shop](https://github.com/LyubovNesterchuk/js-module-11-12) - HTML5 | CSS3 | JavaScript - Responsive e-commerce website with catalog, cart, and UI components.
+- [Chocolate Shop](https://lyubovnesterchuk.github.io/my-first-project/) - HTML5 | CSS3 | JavaScript - Responsive landing page for a chocolate brand.
+- [WebStudio](https://lyubovnesterchuk.github.io/goit-markup-hw-06/#) - HTML5 | CSS3 | JavaScript - Business website with adaptive layout.
+- [User Testing Platform](https://github.com/LyubovNesterchuk/product-project) - HTML5 | CSS3 - Prototype platform for UX testing flows.
 ### 👥 Team Projects
-#### [Clothica Shop](https://github.com/ArtemNyow/Clothica-Go-IT-prod-team-2-Back) - Node.js
-Backend development: authorization, cart/wishlist logic, orders API.
-#### [Book Shop](https://github.com/ArtemNyow/NovelWay) - HTML5 | CSS3 | JavaScript
-UI components, dynamic rendering, interactive catalog.
-##### [Yacht Rental](https://github.com/oleksandr-honchar/project-YJcrew10) - HTML5 | CSS3 | JavaScript
-Responsive layout, modals, interactivity.
+- [Clothica Shop](https://github.com/ArtemNyow/Clothica-Go-IT-prod-team-2-Back) - Node.js - Backend development: authorization, cart/wishlist logic, orders API.
+- [Book Shop](https://github.com/ArtemNyow/NovelWay) - HTML5 | CSS3 | JavaScript - UI components, dynamic rendering, interactive catalog.
+- [Yacht Rental](https://github.com/oleksandr-honchar/project-YJcrew10) - HTML5 | CSS3 | JavaScript - Responsive layout, modals, interactivity.
 
 ## 🗣️ Languages
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat)

@@ -10,7 +10,7 @@
 ###  💻 Personal Projects
 ####  Note Hub – Next.js • REST API
  Developed a full-featured note-taking application with user authentication and CRUD functionality.
-###  Online Shop – HTML • CSS • JavaScript
+####  Online Shop – HTML • CSS • JavaScript
  Built a responsive e-commerce website with product listings, cart functionality, and interactive UI.
 ####  Currency Exchange – Next.js • REST API
  Oversaw development of a real-time currency exchange application using REST APIs; optimized frontend-backend integration and ensured smooth data updates.

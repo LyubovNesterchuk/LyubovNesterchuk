@@ -41,9 +41,9 @@ UI components, dynamic rendering, interactive catalog.
 ##### [Yacht Rental](https://github.com/oleksandr-honchar/project-YJcrew10) - HTML5 | CSS3 | JavaScript
 Responsive layout, modals, interactivity.
 
-🗣️ Languages
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+## 🗣️ Languages
+![English](https://img.shields.io/badge/English-B2-blue?style=flat)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat)
 
 
 ## 📫 How to reach me:  

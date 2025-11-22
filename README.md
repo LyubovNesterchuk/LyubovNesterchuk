@@ -18,8 +18,10 @@
 ####  Clothica Shop – Next.js • Node.js • REST API
 ####  Book Shop – HTML • CSS • JavaScript
 
+## 📫 How to reach me:  
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/loveheart77) | [Email](mailto:nesterchuklyubov@gmail.com)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lyubovnesterchuk&bg_color=8ba30f&color=3b3a07&line=626312&point=1f2806&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 **LyubovNesterchuk/LyubovNesterchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -50,6 +50,9 @@ Responsive layout, modals, interactivity.
 [LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/loveheart77) 
 
 
+![Stats](https://github-readme-stats.vercel.app/api?username=LyubovNesterchuk&show_icons=true&theme=radical)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyubovNesterchuk&layout=compact&theme=radical)
 
 <!--
 **LyubovNesterchuk/LyubovNesterchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

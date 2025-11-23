@@ -23,10 +23,6 @@
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat)
 
 
-## 📫 How to reach me:  
-[LinkedIn](https://linkedin.com/in/yourprofile) 
-
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=LyubovNesterchuk&show_icons=true&theme=radical)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyubovNesterchuk&layout=compact&theme=radical)

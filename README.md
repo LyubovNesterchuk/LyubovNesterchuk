@@ -24,7 +24,7 @@
 
 
 ## 📫 How to reach me:  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/loveheart77) 
+[LinkedIn](https://linkedin.com/in/yourprofile) 
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=LyubovNesterchuk&show_icons=true&theme=radical)

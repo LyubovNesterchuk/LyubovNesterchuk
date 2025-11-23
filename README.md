@@ -14,7 +14,7 @@
 - [WebStudio](https://lyubovnesterchuk.github.io/goit-markup-hw-06/#) - HTML5 | CSS3 | JavaScript - Business website with adaptive layout.
 - [User Testing Platform](https://github.com/LyubovNesterchuk/product-project) - HTML5 | CSS3 - Prototype platform for UX testing flows.
 ### 👥 Team Projects
-- [Clothica Shop](https://github.com/ArtemNyow/Clothica-Go-IT-prod-team-2-Back) - Node.js - Backend development: authorization, cart/wishlist logic, orders API.
+- [Clothica Shop](https://github.com/ArtemNyow/Clothica-Go-IT-prod-team-2-Back) - Node.js - Backend development: authorization, orders API.
 - [Book Shop](https://github.com/ArtemNyow/NovelWay) - HTML5 | CSS3 | JavaScript - UI components, dynamic rendering, interactive catalog.
 - [Yacht Rental](https://github.com/oleksandr-honchar/project-YJcrew10) - HTML5 | CSS3 | JavaScript - Responsive layout, modals, interactivity.
 

@@ -22,8 +22,6 @@
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat)
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=LyubovNesterchuk&show_icons=true&theme=radical)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyubovNesterchuk&layout=compact&theme=radical)
 

@@ -22,7 +22,7 @@
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat)
 
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyubovNesterchuk&layout=compact&theme=radical)
+
 
 <!--
 **LyubovNesterchuk/LyubovNesterchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
